@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apel
+* source:	https://sketchfab.com/3d-models/apel-55de88fd3ba74cfdb8df8d148f75ce99
+* author:	Akhfani (https://sketchfab.com/Akhfani)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apel" (https://sketchfab.com/3d-models/apel-55de88fd3ba74cfdb8df8d148f75ce99) by Akhfani (https://sketchfab.com/Akhfani) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
